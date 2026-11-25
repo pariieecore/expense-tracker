@@ -1,0 +1,39 @@
+===== EXPENSE TRACKER =====
+1. Add Expense
+2. View All Expenses
+3. Filter Expenses
+4. Category Summary
+5. Quit
+
+Enter your choice: 4
+
+--- Category Summary ---
+Food: ₹990.00
+Travel: ₹180.00
+Study: ₹180.00
+Bills: ₹299.00
+Fun: ₹250.00
+
+Grand Total: ₹1899.00
+
+Biggest Expense: Groceries (₹450.00)
+
+===== EXPENSE TRACKER =====
+1. Add Expense
+2. View All Expenses
+3. Filter Expenses
+4. Category Summary
+5. Quit
+
+Enter your choice: 3
+
+1. Filter by Category
+2. Filter by Month
+
+Enter choice: 2
+Enter month (YYYY-MM): 2026-11
+
+Date         Category      Description        Amount
+------------------------------------------------------------
+2026-11-01   Food          Groceries           ₹450.00
+2026-11-02   Travel        Bus fare            ₹80.00
